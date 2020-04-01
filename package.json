@@ -1,0 +1,23 @@
+{
+  "name": "selfbot-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xaxlii",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^3.0.0",
+    "cli-color": "^2.0.0",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "figlet": "^1.2.4",
+    "fs": "0.0.1-security",
+    "linebyline": "^1.3.0",
+    "mongodb": "^3.3.2",
+    "random-puppy": "^1.1.0",
+    "simple-fortnite-api": "^0.1.9"
+  }
+}
